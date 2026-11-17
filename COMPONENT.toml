@@ -3,7 +3,7 @@ name = "SigmaOS-data-monitoring-check"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "data-monitoring-check component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
